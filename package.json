@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@prisma/client": "^6.9.0",
+    "@prisma/client": "^6.10.0",
     "@prisma/extension-accelerate": "^2.0.1",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
@@ -18,7 +18,7 @@
     "mongodb": "^6.16.0",
     "mongoose": "^8.15.1",
     "next": "15.3.2",
-    "prisma": "^6.9.0",
+    "prisma": "^6.10.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "tailwind-merge": "^3.3.0"
